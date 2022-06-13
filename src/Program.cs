@@ -1,4 +1,5 @@
 ﻿using CurrencyApp.Service;
+
 var rates = new List<Tuple<string, string, double>>
 {
     new Tuple<string, string, double>("USD", "CAD", 1.34),
