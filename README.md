@@ -17,7 +17,7 @@ Graph theory has been used in the implementation of this program. The most well-
 **Service Class**
 - In `CurrencyConverter` Implement a currency converter
 
-<img src="https://github.com/mrbardal/SocialNetwork/blob/main/img/Currency.png" width="100%"/>
+<img src="https://github.com/mrbardal/CurrencyConvertor/blob/main/img/Currency.png" width="100%"/>
 
 ```javascript
 
